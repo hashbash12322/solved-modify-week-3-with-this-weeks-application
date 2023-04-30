@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-modify-week-3-with-this-weeks-application
+<br>
+Modify week 3 with this weeks application.The application will now compare the total annual compensation of at least two sales people.It will calculate the additional amount of sales that each sales person must achieve to match or exceed the higher of the two earners.Application should ask for the name of each salesperson being compared.Application should have one class in addition to the controlling class.<a href="http://www.justanswer.com/topics-source-code/">Source code</a> should demonstrate the use of an array or array list.There should be proper documentation in the source code
